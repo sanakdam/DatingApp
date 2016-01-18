@@ -48,3 +48,5 @@ end
 gem 'bootstrap-sass'
 gem "autoprefixer-rails"
 gem 'font-awesome-sass'
+gem 'omniauth-facebook'
+
